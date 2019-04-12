@@ -1,36 +1,36 @@
-Thorlabs number,Comments,Quantity (no LSR),Comments for LSR,Quantity with LSR,,
-MB3045/M,Breadboard ,1,,1,,
-SS6MS12,Screws to screw on the breadboard,1,,1,,
-BA1S/M,Feet of the diode holder,2,,2,,
-TR30/M-P5,"1/2"" posts, pack of 5",2,,3,,
-PH40/M-P5,"1/2"" post holders, pack of 5",2,,3,,
-KCP05/M,Used to center the mirror mounts on the breadboard threads,5,,8,,
-KS05/M,"Precision mirror mount for 1/2""optics",5,,8,,
-PF05-03-P01,"1/2""mirrors",5,,8,,
-PF10-03-P01,"1"" mirror (last mirror)",1,,1,,
-PBS251,PBS to combine the two red laser diodes,1,,1,,
-RS25/M,25mm posts (PBS and last mirror),2,,2,,
-RS5M,Spacer for the PBS post,1,,1,,
-RS10M,Spacer for the last mirror,1,,1,,
-KMCP/M,"Centering plate for the 1"" optics (pol beam splitter and last mirror)",2,,2,,
-KM100PM/M,Base for the PBS,1,,1,,
-PM4/M,Clamp arm for the PBS,1,,1,,
-KS1,"Precision mirror mount for 1""optics",1,,1,,
-PFM1/M,Holders for the dichroic mirrors (to combine the lasers),3,,3,,
-DMLP425,Dichroic to merge 405 diode with the others,1,,1,,
-DMLP505,Dichroic to merge 488 diode with the others,1,,1,,
-DMLP605,Dichroic to merge 561 diode with the others,1,,1,,
-A240TM-A,8mm asph lenses to collimate the diodes,4,,4,,
-FG105LCA-CUSTOM,Optical fiber ,1,,1,,
-SM1FC,Optical fiber adapters,1,,1,,
-AC127-019-A,19 mm lens to couple the lasers into the fiber,1,and onto the LSR,2,,
-SM1A6,"1/2"" to 1"" adapter (used to bring the lens close to the fiber)",1,and for both lenses on the LSR,3,,
-SM05V10,To hold the 19mm lens (before the fiber),1,and to hold both lenses on the LSR,3,,
-SM1M15,Holds the optical fiber and the SM1A6-SM05V10,1,,1,,
-SM1TC,Clamps the SM1M10,1,,1,,
-AE4M6M,"Adaptor to screw the 1"" posts to the breadboard",2,,2,,
-LMRA8,,0,Adaptor for the lens after the LSR,1,,
-SM1L05,,0,Glued on exit of SR and two screwed onto entrance side of LSR,3,,
-SM1L03,,0,Glued on entrance side for SR,1,,
-SM1M05,,0,Screwed on exit of the SR (holds SM05V10 with 10 mm),1,,
-AC080-010-A,,0,10 mm lens right after the SR,1,,
+Thorlabs number,Comments,Quantity (no LSR),Comments for LSR,Quantity with LSR
+MB3045/M,Breadboard ,1,,1
+SS6MS12,Screws to screw on the breadboard,1,,1
+BA1S/M,Feet of the diode holder,2,,2
+TR30/M-P5,"1/2"" posts, pack of 5",2,,3
+PH40/M-P5,"1/2"" post holders, pack of 5",2,,3
+KCP05/M,Used to center the mirror mounts on the breadboard threads,5,,8
+KS05/M,"Precision mirror mount for 1/2""optics",5,,8
+PF05-03-P01,"1/2""mirrors",5,,8
+PF10-03-P01,"1"" mirror (last mirror)",1,,1
+PBS251,PBS to combine the two red laser diodes,1,,1
+RS25/M,25mm posts (PBS and last mirror),2,,2
+RS5M,Spacer for the PBS post,1,,1
+RS10M,Spacer for the last mirror,1,,1
+KMCP/M,"Centering plate for the 1"" optics (pol beam splitter and last mirror)",2,,2
+KM100PM/M,Base for the PBS,1,,1
+PM4/M,Clamp arm for the PBS,1,,1
+KS1,"Precision mirror mount for 1""optics",1,,1
+PFM1/M,Holders for the dichroic mirrors (to combine the lasers),3,,3
+DMLP425,Dichroic to merge 405 diode with the others,1,,1
+DMLP505,Dichroic to merge 488 diode with the others,1,,1
+DMLP605,Dichroic to merge 561 diode with the others,1,,1
+A240TM-A,8mm asph lenses to collimate the diodes,4,,4
+FG105LCA-CUSTOM,Optical fiber ,1,,1
+SM1FC,Optical fiber adapters,1,,1
+AC127-019-A,19 mm lens to couple the lasers into the fiber,1,and onto the LSR,2
+SM1A6,"1/2"" to 1"" adapter (used to bring the lens close to the fiber)",1,and for both lenses on the LSR,3
+SM05V10,To hold the 19mm lens (before the fiber),1,and to hold both lenses on the LSR,3
+SM1M15,Holds the optical fiber and the SM1A6-SM05V10,1,,1
+SM1TC,Clamps the SM1M15,1,,1
+AE4M6M,"Adaptor to screw the 1"" posts to the breadboard",2,,2
+LMRA8,,0,Adaptor for the lens after the LSR,1
+SM1L05,,0,Glued on exit of SR and two screwed onto entrance side of LSR,3
+SM1L03,,0,Glued on entrance side for SR,1
+SM1M05,,0,Screwed on exit of the SR (holds SM05V10 with 10 mm),1
+AC080-010-A,,0,10 mm lens right after the SR,1
