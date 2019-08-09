@@ -9,7 +9,7 @@ KS05/M,"Precision mirror mount for 1/2""optics",5,,8
 PF05-03-P01,"1/2""mirrors",5,,8
 PF10-03-P01,"1"" mirror (last mirror)",1,,1
 PBS251,PBS to combine the two red laser diodes,1,,1
-RS25/M,25mm posts (PBS and last mirror),2,,2
+RS25/M,"25mm posts (PBS and last mirror), with M4 adaptors ",2,,2
 RS5M,Spacer for the PBS post,1,,1
 RS10M,Spacer for the last mirror,1,,1
 KMCP/M,"Centering plate for the 1"" optics (pol beam splitter and last mirror)",2,,2
@@ -28,7 +28,6 @@ SM1A6,"1/2"" to 1"" adapter (used to bring the lens close to the fiber)",1,and f
 SM05V10,To hold the 19mm lens (before the fiber),1,and to hold both lenses on the LSR,3
 SM1M15,Holds the optical fiber and the SM1A6-SM05V10,1,,1
 SM1TC,Clamps the SM1M15,1,,1
-AE4M6M,"Adaptor to screw the 1"" posts to the breadboard",2,,2
 LMRA8,,0,Adaptor for the lens after the LSR,1
 SM1L05,,0,Glued on exit of SR and two screwed onto entrance side of LSR,3
 SM1L03,,0,Glued on entrance side for SR,1
