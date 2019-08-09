@@ -1,4 +1,4 @@
-Thorlabs number,Comments,Quantity (no LSR),Comments for LSR,Quantity with LSR
+Thorlabs number,Comments (without LSR),Quantity (no LSR),Comments for LSR,Quantity with LSR
 MB3045/M,Breadboard ,1,,1
 SS6MS12,Screws to screw on the breadboard,1,,1
 BA1S/M,Feet of the diode holder,2,,2
@@ -21,7 +21,7 @@ DMLP425,Dichroic to merge 405 diode with the others,1,,1
 DMLP505,Dichroic to merge 488 diode with the others,1,,1
 DMLP605,Dichroic to merge 561 diode with the others,1,,1
 A240TM-A,8mm asph lenses to collimate the diodes,4,,4
-FG105LCA-CUSTOM,Optical fiber ,1,,1
+M103L05,Squar multimode optical fiber ,1,,1
 SM1FC,Optical fiber adapters,1,,1
 AC127-019-A,19 mm lens to couple the lasers into the fiber,1,and onto the LSR,2
 SM1A6,"1/2"" to 1"" adapter (used to bring the lens close to the fiber)",1,and for both lenses on the LSR,3
