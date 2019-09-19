@@ -63,7 +63,7 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
    Measure in addition the **maximum current** going to the laser diode.
 
 
-4. Then, **[calculate](http://www.ohmslawcalculator.com/voltage-divider-calculator)** the resistors needed in the voltage divider part of the signal conversion board. As we wanted to scale the voltage from 0 - 3.3 V to 0 - Vmax. In our case, this yields two different **signal conditioning boards (A and B)** with different voltage division factors (see **[circuit](Circuit)** for the positions of the resistors R1, R2 and R3):
+4. Then, **[calculate](http://www.ohmslawcalculator.com/voltage-divider-calculator)** the resistors needed in the voltage divider part of the signal conversion board. As we wanted to scale the voltage from 0 - 3.3 V to 0 - Vmax. In our case, this yields two different **signal conditioning boards (A and B)** with different voltage division factors (see **[circuit](Custom_signal_conditioning/Circuit)** for the positions of the resistors R1, R2 and R3):
 
    |                         | A: 405 / 488 nm | B: 638 nm |
    | ----------------------- | --------------- | --------- |
