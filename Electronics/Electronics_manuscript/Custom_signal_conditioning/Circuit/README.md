@@ -1,6 +1,6 @@
-## Voltage conditioning circuit
+## Signal conditioning circuit
 
-We describe two versions of the voltage conditioning board, versions A and B. They differ by the voltage divider part of the circuit and therefore are to be used with different laser diodes.
+We describe two versions of the signal conditioning board, versions A and B. They differ by the voltage divider part of the circuit and therefore are to be used with different laser diodes.
 
 - **Version A**: This version corresponds to the 405 nm and 488 nm laser diodes. 
 - **Version B**: This version corresponds to the 638 nm laser diodes.

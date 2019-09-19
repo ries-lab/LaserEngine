@@ -1,4 +1,4 @@
-## Singal conditioning board
+## Signal conditioning board
 
 
 
@@ -10,7 +10,7 @@ A [bill of materials](Bill_of_materials) and a [schematic of the circuit](Circui
 
 ##### Power supply
 
-The power is supplied to the voltage conditioning board by the [custom voltage distribution board](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript/Custom_voltage_distribution): +5 V, gnd and -5 V.
+The power is supplied to the signal conditioning board by the [custom voltage distribution board](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript/Custom_voltage_distribution): +5 V, gnd and -5 V.
 
 ##### Inputs
 
