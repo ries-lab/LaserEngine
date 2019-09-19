@@ -14,9 +14,9 @@ The repository contains the following complementary modules:
 - [Agitation module](Agitation_Module): a box holding a motor suspended by elastic cords for speckle and noise reduction.
 - [Laser diode electronics](Electronics): Electronics to control the power and triggering of the laser diodes from the computer.
 - [Laser engine](Laser_Engine): plans and guidelines of the optical path. It contains several submodules:
-  - [Laser diodes mount](Laser_Engine\Diodes_Mount): A machined mount to host the TO56-canned laser diodes.
-  - [Enclosure](Laser_Engine\Enclosure): A simple box to protect the laser engine from dust and the users from laser light.
-  - [**(Optional)** Speckle-reduction for a 561 nm laser](Laser_Engine\LSR): In case of further speckle-reduction needed for a dpss laser, we present an optional element to place in the beam path.
+  - [Laser diodes mount](Laser_Engine/Diodes_Mount): A machined mount to host the TO56-canned laser diodes.
+  - [Enclosure](Laser_Engine/Enclosure): A simple box to protect the laser engine from dust and the users from laser light.
+  - [**(Optional)** Speckle-reduction for a 561 nm laser](Laser_Engine/LSR): In case of further speckle-reduction needed for a dpss laser, we present an optional element to place in the beam path.
 
 
 
