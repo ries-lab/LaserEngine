@@ -7,7 +7,7 @@ The agitation module consists of an aluminium box in which a motor is suspended 
 ###### Agitation box
 
 - [Machined box parts](AgitationBox)
-- [3D printed handle](AgitationBox\Handle) x1
+- [3D printed handle](AgitationBox/Handle) x1
 - [Cable tie base](https://www.thorlabs.de/thorproduct.cfm?partnumber=CMS010) x4
 - [3 mm elastic cords](https://www.prym.com/en/elastic-cord-1.5mm-black-3m-971064?c=4315) x3
 
@@ -38,7 +38,7 @@ Here, we present a lighter version:
 
 In their corresponding folders, you will find the guidelines regarding the mounting of the motor in its housing.
 
-1. In [the box CAD folder](AgitationBox) you can find the blueprints for a lighter version of the agitation box. It consists of four panels screwed together with M4 screws. One of the panel has a dent to let the motor power supply cable and the optical fiber enter & leave the box. A lid is also described, with a [3D printed handle](AgitationBox_V2\Handle), in order to dampen the noise. The lid features four M3 screws at the corner to prevent it from sliding from the box.
+1. In [the box CAD folder](AgitationBox) you can find the blueprints for a lighter version of the agitation box. It consists of four panels screwed together with M4 screws. One of the panel has a dent to let the motor power supply cable and the optical fiber enter & leave the box. A lid is also described, with a [3D printed handle](AgitationBox_V2/Handle), in order to dampen the noise. The lid features four M3 screws at the corner to prevent it from sliding from the box.
 
    > Tip: We placed an egg box foam under the box to protect the floor and improve the noise dampening.
 
