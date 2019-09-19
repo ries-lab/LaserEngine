@@ -73,7 +73,7 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
 
    > Note: The voltage divider circuit is followed by an amplification and offset stages on the circuit. The choice of the voltage division dictates the range of current that can be supplied to the laser diode driver. Choosing a lower voltage after division would allow for the possibility to decrease in the future the maximum voltage supplied without exchanging the resistors.
 
-5. **Once the resistors soldered on the signal conditioning board**, the output voltage (Out signal) range needs to be tuned using the two **potentiometers (#1 and #2, respectively R10 and R12 on the [circuit](Circuit))** present on the board. **Connect the PWM (3.3 V, we used a period of 2 ms) source to the signal conditioning board**.
+5. **Once the resistors soldered on the signal conditioning board**, the output voltage (Out signal) range needs to be tuned using the two **potentiometers (#1 and #2, respectively R10 and R12 on the [circuit](Custom_signal_conditioning/Circuit))** present on the board. **Connect the PWM (3.3 V, we used a period of 2 ms) source to the signal conditioning board**.
 
 6. In an iterative manner, turn potentiometer #1 (offset) so the minimum of the PWM signal corresponds to a slightly negative voltage (few mV). Then tune potentiometer #2 (gain) so that the maximum of the PWM corresponds to expected maximum output voltage. Repeat until the minimum is few mV negative and the maximum the expected value measured in step 2.
 

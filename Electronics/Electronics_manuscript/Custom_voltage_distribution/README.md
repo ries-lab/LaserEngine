@@ -22,7 +22,7 @@ In order to supply voltage to the laser diode driver and to the signal condition
 
 3. Wire power supply #2 positive pin to the +5 V area of the board.
 
-   > Note: We actually soldered an interrupter between the power supplies positive pin and the voltage distribution board to be able to turn off the circuit. See the [wiring section]() for more details.
+   > Note: We actually soldered an interrupter between the power supplies positive pin and the voltage distribution board to be able to turn off the circuit. See the [wiring section](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript/Wiring) for more details.
 
 4. The voltage conditioning boards have 3 pins for the voltage supply: -5 V, GND and +5 V. Wire them accordingly using pins from the -5 V, ground and +5 V areas on the voltage distribution board.
 
@@ -34,5 +34,5 @@ In order to supply voltage to the laser diode driver and to the signal condition
 
    
 
-> Note: see [the wiring section]() for more details on how we wired the custom boards in the electronics box.
+> Note: see [the wiring section](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript/Wiring) for more details on how we wired the custom boards in the electronics box.
 

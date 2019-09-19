@@ -1,6 +1,6 @@
 ## Wiring
 
-We packaged our electronics in a compact aluminium box (as seen in the picture [in the previous section]()).
+We packaged our electronics in a compact aluminium box (as seen in the picture [in the previous section](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript)).
 
 Our electronics box displays a main switch allowing to interrupt the connection between the power supplies and the voltage distribution board. In addition, for each diode we added a switch between manual and remote control, as well as a potentiometer to control the laser diode power in manual mode. The laser diodes are then connected to the electronics box using a custom cable. Here are the front and back of the electronics box:
 
