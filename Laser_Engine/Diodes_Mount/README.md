@@ -26,7 +26,7 @@ The diodes mount holds all four TO56-canned laser diodes and allows for efficien
 
   
 
-  All non-machined part references can be found in [the parts folder](Parts). **Note that the BA1S/M and the lenses are present in the [Thorlabs part list](github link).**
+  All non-machined part references can be found in [the parts folder](Parts). **Note that the BA1S/M and the lenses are present in the [Thorlabs part list](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine/Parts/Thorlabs_parts_list).**
   
   > **Note**: The heat sinks were produced from a longer [heat sink (SK 75 75, fisher elektronik)](https://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/A04/Extruded heatsinks for PCB mounting/$catalogue/fischerData/PR/SK75_75_/index.xhtml). Each heat sink was cut to be 24 mm long in order to fit more easily side by side. 25 mm long heat sinks (SK 75 25, fisher elektronik) should also work.
   
