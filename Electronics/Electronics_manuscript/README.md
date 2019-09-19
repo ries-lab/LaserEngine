@@ -17,7 +17,7 @@ The electronics has two inputs per laser diode:
 
 For the four diodes described in [this section](https://github.com/ries-lab/LaserEngine/tree/master/Electronics), we need:
 
-- [Laser diode driver](roithner-laser.com/ld_electronics.html) (eu-38-ttl, Roithner) x4
+- [Laser diode driver](http://www.roithner-laser.com/ld_electronics.html) (eu-38-ttl, Roithner) x4
 
 - Heat sink for the laser diode drivers (see picture above)
 
