@@ -33,7 +33,7 @@ We explored two solutions to control the laser diodes (we highlighted in bold ea
 | Modified LD driver   |                             Yes                              |                            **No**                            |
 | Power supplies       | **1 x [5 V (2.5 A)](https://www.reichelt.com/de/de/steckernetzteil-12-w-5-v-2-4-a-stabilisiert-gs15e-1p1j-p161604.html?&trstct=pos_0) + 1 x [6 V (1 A)](https://www.reichelt.com/de/en/eco-friendly-plug-in-power-supply-max-1000-ma-usb-mw-3k10gs-p87339.html?&trstct=pos_0)** | [See LD1255R power supply](https://www.thorlabs.de/newgrouppage9.cfm?objectgroup_id=1366) and <br />contact Thorlabs for the LD3000R |
 | Power supplies price |                        ~ **24 euros**                        |                      prob. ~ 300 euros                       |
-| Custom boards        | 4 x [signal conditioning](Electronics_manuscript/Custom_signal_conditioning) + 1 x [voltage distribution](Electronics_manuscript/Custom_voltage_distribution) | **1 x [signal conditioning](Electronics_alternative/Custom_board)** |
+| Custom boards        | 4 x [signal conditioning](Electronics_manuscript/Custom_signal_conditioning) + 1 x [voltage distribution](Electronics_manuscript/Custom_voltage_distribution) | **1 x [signal conditioning](Electronics_alternative/Custom_signal_conditioning)** |
 | LD pulsing           |                           ~ **μs**                           |                             ~ ms                             |
 
 #### Notes:
