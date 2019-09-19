@@ -6,13 +6,15 @@ The diodes mount holds all four TO56-canned laser diodes and allows for efficien
 
 ![Mount](Holder.jpg)
 
-- Laser diodes (see [the main optical path section]())
+- Laser diodes (see [the main optical path section](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine))
 
 - [Machined mount](Machined_Mount) x1
 
 - BA1S/M base x2
 
-- [Heat sinks](Heat_sinks) x4
+- [Heat sinks with custom holes](Heat_sinks) x4
+
+  > **Note**: The heat sinks were produced from a longer heat sink (SK 75 75, fischer elektronik). Each heat sink was cut to be 24 mm long in order to fit more easily side by side. 25 mm long heat sinks (SK 75 25, fisher elektronik) should also work.
 
 - Thermal paste
 
@@ -26,7 +28,7 @@ The diodes mount holds all four TO56-canned laser diodes and allows for efficien
 
   All non-machined part references can be found in [the parts folder](Parts). **Note that the BA1S/M and the lenses are present in the [Thorlabs part list](github link).**
   
-  > **Note**: The heat sinks were produced from a longer [heat sink (SK 75 75, fisher elektronik)](https://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/A04/Extruded heatsinks for PCB mounting/$catalogue/fischerData/PR/SK75_75_/index.xhtml). Each heat sink was cut to be 24 mm long in order to fit more easily side by side. 25 mm long heat sinks (SK 75 25, fisher elektronik) should also work (albeit with the holes shown in the blueprints).
+  > **Note**: The heat sinks were produced from a longer [heat sink (SK 75 75, fisher elektronik)](https://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/A04/Extruded heatsinks for PCB mounting/$catalogue/fischerData/PR/SK75_75_/index.xhtml). Each heat sink was cut to be 24 mm long in order to fit more easily side by side. 25 mm long heat sinks (SK 75 25, fisher elektronik) should also work.
   
   
 

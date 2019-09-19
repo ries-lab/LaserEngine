@@ -8,7 +8,7 @@ The laser engine is composed of four submodules: the diode holder, the main opti
 
 - [488 nm laser diode (BLD-488-55, Lasertack)](https://www.lasertack.com/en/55mw-488nm-laser-diode) x1
 
-- [638 nm laser diodes (HL63193MG, Ushio)](https://www.lasershop.de/red-laser-diode-hl63193mg-700mw-638nm.html?language=en) x2
+- [638 nm laser diodes (HL63193MG, Ushio)](https://www.lasershop.de/en/ushio-hl63193mg-red-laser-diode-700mw-5-6mm.html) x2
 
 - [Laser diode mount](Diodes_Mount)
 
