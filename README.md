@@ -29,13 +29,6 @@ The repository contains the following complementary modules:
 
 
 
-#### Paper
-
-link 
-
-cite us:
-
-
 #### Contact
 
 If you have any question, get in touch with the [Ries group.](https://rieslab.de/#contact)
