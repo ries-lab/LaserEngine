@@ -23,7 +23,7 @@ The repository contains the following complementary modules:
 ###  :warning: Safety warning​​s :warning:
 
 - Always work with adequate laser light protection.
-- The foam board used in the [enclosure](Laser_Engine\Enclosure) is a fire hazard when subjected to strong laser light. Make sure to place beam stops behind the dichroic mirrors and the polarization beam splitter so that no laser beam hits the foam board panels. 
+- The foam board used in the [enclosure](Laser_Engine/Enclosure) is a fire hazard when subjected to strong laser light. Make sure to place beam stops behind the dichroic mirrors and the polarization beam splitter so that no laser beam hits the foam board panels. 
 - Building the [electronics](Electronics) oneself requires experience in soldering and electronics in general. Make sure you are working safely.
 
 
