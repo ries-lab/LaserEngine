@@ -21,7 +21,7 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
 
 - [Power supply for the LD1255R + cable](https://www.thorlabs.de/newgrouppage9.cfm?objectgroup_id=1366) x2
 
-- [Custom laser diode signal conversion board](Custom_board) x1
+- [Custom laser diode signal conversion board](Custom_signal_conditioning) x1
 
 - Power supply for the custom board (12 V) x1
 
@@ -40,7 +40,7 @@ The laser diodes used in this project require two different current range: 60-15
 
 Each LD driver can be set to an external control mode by placing a jumper on two pins (J2). Refer to their respective data sheet and set them to external control mode.
 
-The [custom signal conversion board](Custom_board) takes two inputs (3.3 V or 5 V):
+The [custom signal conversion board](Custom_signal_conditioning) takes two inputs (3.3 V or 5 V):
 
 - TTL trigger for on/off switching and pulsing
 - PWM for power control
@@ -62,6 +62,6 @@ The signal conversion board produces an analog signal that can be fed directly o
 Finally, make sure to correctly wire the anode and the cathode of each diode to the proper pin on the LD drivers.
 
 
-> **Note**: The last segment of the circuit (see [circuit](circuit)) holds two resistors R5 and R6 which are open and 0 Ω respectively. Therefore this part of the circuit is just a voltage follower. However, replacing R5 and R6 would allow for higher output voltage if ever necessary (e.g. 0-10V). 
+> **Note**: The last segment of the circuit (see [circuit](Custom_signal_conditioning/Circuit)) holds two resistors R5 and R6 which are open and 0 Ω respectively. Therefore this part of the circuit is just a voltage follower. However, replacing R5 and R6 would allow for higher output voltage if ever necessary (e.g. 0-10V). 
 >
 > **Note**: We did not attempt to supply the positive and negative voltages for the LD3000R, LD1255R and the custom board using the same sources. It should be possible to reduce the number of power supply by grouping them.

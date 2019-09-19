@@ -4,7 +4,7 @@ This section describes the electronics used in the paper. Here, the electronics 
 
 ![Electronics box](Electronics_box.jpg)
 
-The commercial **laser diode drivers** can be seen on the top row of the picture. They have been modified to bypass the board potentiometer with the output of the **voltage conditioning board** (bottom row). There is one laser diode driver and one voltage conditioning board per laser diode. Finally, a **voltage distribution board** (bottom right) provides the correct voltage to each of the other elements.
+The commercial **laser diode drivers** can be seen on the top row of the picture. They have been modified to bypass the board potentiometer with the output of the **signal conditioning board** (bottom row). There is one laser diode driver and one voltage conditioning board per laser diode. Finally, a **voltage distribution board** (bottom right) provides the correct voltage to each of the other elements.
 
 The electronics has two inputs per laser diode:
 

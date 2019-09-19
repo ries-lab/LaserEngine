@@ -1,4 +1,4 @@
-## Voltage conditioning board
+## Singal conditioning board
 
 
 
@@ -25,3 +25,4 @@ The power is supplied to the voltage conditioning board by the [custom voltage d
 
 
 > Note: see [the wiring section](https://github.com/ries-lab/LaserEngine/tree/master/Electronics/Electronics_manuscript/Wiring) for more details on how we wired the custom boards in the electronics box.
+
