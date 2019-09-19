@@ -26,7 +26,7 @@ The diodes mount holds all four TO56-canned laser diodes and allows for efficien
 
   
 
-  All non-machined part references can be found in [the parts folder](Parts). **Note that the BA1S/M and the lenses are present in the [Thorlabs part list](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine/Parts/Thorlabs_parts_list).
+  All non-machined part references can be found in [the parts folder](Parts). **Note that the BA1S/M and the lenses are present in the [Thorlabs part list](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine/Parts/Thorlabs_parts_list)**.
   
   
 
