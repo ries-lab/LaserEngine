@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=sheet_top.SchDoc
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=A|SchDesignator=A|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=B|SchDesignator=B|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=C|SchDesignator=C|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=D|SchDesignator=D|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=E|SchDesignator=E|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sheet_top.SchDoc|Designator=sheetPower|SchDesignator=sheetPower|FileName=Sheet_Power.SchDoc|SymbolType=Normal|RawFileName=Sheet_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
