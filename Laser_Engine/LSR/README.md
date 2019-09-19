@@ -6,7 +6,7 @@ The LSR system is aimed at further suppressing the laser speckles present in the
 
 #### Parts
 
-Note that the Thorlabs parts used here are already present in the [Thorlabs cart corresponding to the laser engine with LSR system](https://github.com/ries-lab/LaserEngine/Laser_Engine/Thorlabs_parts_list).
+Note that the Thorlabs parts used here are already present in the [Thorlabs cart corresponding to the laser engine with LSR system](https://github.com/ries-lab/LaserEngine/tree/master/Laser_Engine/Parts/Thorlabs_parts_list).
 
 - [LSR-3005-17S-VIS, Optotune](https://www.optotune.com/products/laser-speckle-reducers/eap-lsr/lsr-3005-series) x1
 
@@ -26,7 +26,7 @@ In order to obtain high quality speckle-reduction, the laser light must be focus
 
 We will call the side of the LSR with prints (and a countersink hole) the "exit" and the back-side the "entrance". 
 
-1. Make sure that the 561 nm laser is collimated before aligning the LSR system and that it propagates along the holdes on the table, according to [this schematic](https://github.com/ries-lab/LaserEngine/Laser_Engine/Optical_path_with_Thorlabs_parts.pdf).
+1. Make sure that the 561 nm laser is collimated before aligning the LSR system and that it propagates along the holes on the table, according to [this schematic](https://github.com/ries-lab/LaserEngine/blob/master/Laser_Engine/Optical_path_with_Thorlabs_parts.pdf).
 
 2. Glue the 10 mm lens on its lens adapter.
 
