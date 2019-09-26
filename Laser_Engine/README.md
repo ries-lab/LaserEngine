@@ -10,7 +10,7 @@ The laser engine is composed of four submodules: the diode holder, the main opti
 
 - [638 nm laser diodes (HL63193MG, Ushio)](https://www.lasershop.de/en/ushio-hl63193mg-red-laser-diode-700mw-5-6mm.html) x2
 
-- [Laser diode mount](Diodes_Mount)
+- [Diodes mount](Diodes_Mount)
 
 - [Thorlabs part list](Parts/Thorlabs_parts_list)
 
