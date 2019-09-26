@@ -4,7 +4,7 @@
 
 ![Laser engine](laserengine.jpg)
 
-Blueprints for a low-cost laser engine compatible with wide-field and localization microscopy. The laser engine is based on affordable, albeit powerful, diode lasers, a square multimode fiber and a speckle-reduction module.
+Blueprints for a low-cost laser engine compatible with wide-field and localization microscopy. The laser engine is based on affordable, albeit powerful, laser diodes, a square multimode fiber and a speckle-reduction module.
 
 
 ### :information_source: ​How to navigate the repository
