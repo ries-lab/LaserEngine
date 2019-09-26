@@ -66,7 +66,7 @@ We obtained the following coupling efficiencies (these might vary):
 | 488 nm                              |         80%         |
 | 638-1 nm                            |         80%         |
 | 638-2 nm                            |         80%         |
-| 561 nm (LSR)                        |         60%         |
+| 561 nm (LSR)                        |         50%         |
 | 561 nm (no LSR)                     |         81%         |
 
 
