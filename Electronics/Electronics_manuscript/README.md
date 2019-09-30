@@ -58,7 +58,7 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
 
 | 405 nm  | 488 nm  | 638 nm (1) | 638 nm (2) |
 | ------- | ------- | ---------- | ---------- |
-| 0.04 mV | 0.04 mV | 0.33 mV    | 0.33 mV    |
+| 40 mV | 40 mV | 330 mV    | 330 mV    |
 
    Measure in addition the **maximum current** going to the laser diode.
 
