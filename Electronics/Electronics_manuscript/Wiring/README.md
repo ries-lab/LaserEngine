@@ -23,7 +23,7 @@ In addition to the laser diodes, laser diode drivers, voltage conditioning board
 - Aluminium enclosure (~22 x 15 cm)
 - Double pole double throw switch x5
 - Potentiometer x4
-- DSUB9 plug
+- DSUB9 plug: connected to 4 x TTL and 4 x PWM signals
 
 
 
