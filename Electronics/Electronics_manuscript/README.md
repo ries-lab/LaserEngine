@@ -87,7 +87,7 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
    > **Note from Roithner Lasertechnik GmbH**: Any modification to the EU-38-TTL is carried out at ones own risk and responsibility. Roithner Lasertechnik GmbH has not verified and can not be held liable for any operating failure or damage resulting from the modification to the driver.
 
 8. Before connecting back the laser diode, verify that the current output of the laser diode driver is still close to the measured current in step 2.
-9. Connect the laser diode and adjust the potentiometers #1 and #2 slightly so that the laser diode is not emitting at the PWM minimum and is emitting slightly below full power at the PWM maximum.
+9. If the laser diode is still emitting at the minimum PWM value, decrease slightly potentiometer #1.
 10. Repeat for the other laser diodes. Then wire the TTL inputs directly on the laser diode drivers.
     
 
