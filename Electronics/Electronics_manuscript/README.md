@@ -8,7 +8,7 @@ The commercial **laser diode drivers** can be seen on the top row of the picture
 
 The electronics has two inputs per laser diode:
 
-- 3.3 V TTL trigger signal to switch on or off the diodes (< MHz)
+- 3.3 V TTL trigger signal to switch on or off the diodes
 - 3.3 V PWM (>= 1kHz) signal
 
 **This section does not describe the boxing out of the electronics. You can find a description of the wiring involved in the [wiring](Wiring) submodule.** In particular, a feature of our electronics box is a main switch to turn on/off the laser diode and switches to allow for individual manual or remote control of the laser diodes.
@@ -87,9 +87,22 @@ For the four diodes described in [this section](https://github.com/ries-lab/Lase
    > **Note from Roithner Lasertechnik GmbH**: Any modification to the EU-38-TTL is carried out at ones own risk and responsibility. Roithner Lasertechnik GmbH has not verified and can not be held liable for any operating failure or damage resulting from the modification to the driver.
 
 8. Before connecting back the laser diode, verify that the current output of the laser diode driver is still close to the measured current in step 2.
+
 9. If the laser diode is still emitting at the minimum PWM value, decrease slightly potentiometer #1.
+
 10. Repeat for the other laser diodes. Then wire the TTL inputs directly on the laser diode drivers.
     
+    
+
+#### Pulsing lag and rise-time
+
+Using an oscilloscope, we measured the delay, the rise time and the fall time of each diode while using a TTL trigger with a pulse length of 4 ms (405 nm and 488 nm) or 400 μs (638 nm). Note that the results depend on the power set-point (separated by a "|").
+
+| PWM 33% \| 100% |      405 nm      |     488 nm     |    638 nm (1)    |   638 nm (2)    |
+| --------------- | :--------------: | :------------: | :--------------: | :-------------: |
+| Delay           | 400 μs \| 400 μs | 1 ms \| 700 μs |  40 μs \| 2 μs   |  60 μs \| 5 μs  |
+| Rise time       | 100 μs \| 77 μs  | 157 μs\| 67 μs |  18 μs \| 13 μs  | 15 μs \| 21 μs  |
+| Fall time       |  26 μs \| 1 μs   | 15 μs \| 7 μs  | 300 μs \| 500 ns | 170 ns\| 600 ns |
 
 #### Possible improvement
 
