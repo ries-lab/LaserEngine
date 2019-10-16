@@ -26,7 +26,9 @@ The repository contains the following complementary modules:
 - The foam board used in the [enclosure](Laser_Engine/Enclosure) is a fire hazard when subjected to strong laser light. Make sure to place beam stops behind the dichroic mirrors and the polarization beam splitter so that no laser beam hits the foam board panels. 
 - Building the [electronics](Electronics) oneself requires experience in soldering and electronics in general. Make sure you are working safely.
 
+#### Cite us
 
+"*A cost-efficient open source laser engine for microscopy*", D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, bioRxiv 796482; doi: https://doi.org/10.1101/796482
 
 
 #### Contact
