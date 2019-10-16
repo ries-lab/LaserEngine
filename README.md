@@ -28,7 +28,7 @@ The repository contains the following complementary modules:
 
 #### Cite us
 
-"*A cost-efficient open source laser engine for microscopy*", D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, bioRxiv 796482; doi: https://doi.org/10.1101/796482
+ D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "*A cost-efficient open source laser engine for microscopy*", bioRxiv 796482; doi: https://doi.org/10.1101/796482
 
 
 #### Contact
