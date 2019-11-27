@@ -4,13 +4,11 @@ The brushless motor is housed in a 3D printed holder.
 
 #### Parts
 
-- [Brushless motor](https://www.amazon.de/gp/product/B07777ZH3J/ref=ox_sc_act_title_1?smid=A3TCAMEHRX2HS1&psc=1) x1
+- [KEESIN RC 1000KV Brushless Motor A2212](https://www.amazon.de/gp/product/B07BS7DFW3) x1
 
 - [3D printed motor housing](Motor_Housing_v2) x1
 
 - [Servo controller for speed control](https://www.amazon.de/gp/product/B07K6D9ZDQ/ref=ox_sc_act_title_1?smid=A1SPOY0RBPE5BD&psc=1) x1
-
-- 4 mm (inner) - 5 mm (outer) diameters o-ring x4
 
 - M3 thread-cutting screw x1
 
