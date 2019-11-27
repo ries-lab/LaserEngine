@@ -7,5 +7,5 @@ We provide two different designs:
 
 The only difference is the ball bearing size. Each design is present as a .STEP and .STL file.
 
-> Note that the STL files might be imported in 3D printer softwares with the wrong unit. If that is the case, scale them down by a factor 1000. 
+> Note that the STL files might be imported in 3D printer softwares with the wrong unit. If that is the case, for instance in meters, scale them down by a factor 1000. As a reference, the barrel (without the top handle) is 48 mm tall.
 
