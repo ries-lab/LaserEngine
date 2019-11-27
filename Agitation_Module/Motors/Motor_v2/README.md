@@ -20,7 +20,10 @@ The brushless motor is housed in a 3D printed holder.
 
 - 6 mm (inner) - 18 mm (outer) diameters fender washer x1
 
-- [MR105 ball bearing](https://www.kugellager-express.de/miniature-deep-groove-ball-bearing-mr105-2rs-5x10x4-mm) x1
+- [MR105 Ball bearing (5x10x4 mm)](https://www.kugellager-express.de/miniature-deep-groove-ball-bearing-mr105-2rs-5x10x4-mm) x1
+  or
+  [MR115 Ball bearing (5x11x4 mm)]( https://www.kugellager-express.de/miniature-deep-groove-ball-bearing-mr115-2rs-5x11x4-mm ) x1
+  (make sure to use the correct motor housing)
 
 - 5 V (0.5 A) power supply
 

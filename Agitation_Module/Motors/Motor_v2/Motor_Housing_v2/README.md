@@ -1,7 +1,11 @@
-## Moto housing - v2
+## Motor housing - v2
 
-The "*Agitation_motor_housing_v2.stl*" file seems to have scaling problems, causing it to appear 1000 times taller than it is. If in the software the piece is loaded with a size in the range of tens of meters, please scale it down to millimeters.
+We provide two different designs:
 
+- *Agitation_motor_housing_v2_10mmBearing* for a **5x10x4 mm** ball bearing
+- *Agitation_motor_housing_v2_11mmBearing* for a **5x11x4 mm** ball bearing
 
+The only difference is the ball bearing size. Each design is present as a .STEP and .STL file.
 
-We provide "*Agitation_motor_housing_v2.3mf*" as an alternative, as in this format the piece seems to have the correct size.
+> Note that the STL files might be imported in 3D printer softwares with the wrong unit. If that is the case, scale them down by a factor 1000. 
+
