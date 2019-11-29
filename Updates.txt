@@ -1,3 +1,4 @@
 #### Updates
 
+29/11/19: New version of the Motor v2 housing: prevents jamming issues + STEP file.
 20/11/19: Corrected 405 nm LD connection on wiring schematic. 
