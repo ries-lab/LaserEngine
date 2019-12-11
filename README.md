@@ -15,8 +15,20 @@ The repository contains the following complementary modules:
 - [Laser diode electronics](Electronics): Electronics to control the power and triggering of the laser diodes from the computer.
 - [Laser engine](Laser_Engine): plans and guidelines of the optical path. It contains several submodules:
   - [Laser diodes mount](Laser_Engine/Diodes_Mount): A machined mount to host the TO56-canned laser diodes.
+  
   - [Enclosure](Laser_Engine/Enclosure): A simple box to protect the laser engine from dust and the users from laser light.
+  
   - [**(Optional)** Speckle-reduction for a 561 nm laser](Laser_Engine/LSR): In case of further speckle-reduction needed for a dpss laser, we present an optional element to place in the beam path.
+  
+    
+
+:information_source: ​This repository is getting updated with the newest developments. If you wish to consult the repository as it was for for the publication, please check out the tag **boe**:
+
+```bash
+git checkout boe
+```
+
+Or follow [this link](https://github.com/ries-lab/LaserEngine/releases/tag/boe).
 
 
 
