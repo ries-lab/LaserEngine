@@ -28,7 +28,7 @@ This repository is updated with the newest developments. If you wish to consult 
 git checkout boe
 ```
 
-Or follow [this link](https://github.com/ries-lab/LaserEngine/releases/tag/boe).
+Or download the release [on Github](https://github.com/ries-lab/LaserEngine/releases/tag/boe) or [Zenodo](https://zenodo.org/badge/latestdoi/172924170).
 
 
 
@@ -41,6 +41,10 @@ Or follow [this link](https://github.com/ries-lab/LaserEngine/releases/tag/boe).
 #### Cite us
 
 D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "*A cost-efficient open source laser engine for microscopy*", bioRxiv 796482; doi: https://doi.org/10.1101/796482
+
+Repository on Zenodo:
+
+[![DOI](https://zenodo.org/badge/172924170.svg)](https://zenodo.org/badge/latestdoi/172924170)
 
 
 #### Contact
