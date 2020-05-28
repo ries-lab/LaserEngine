@@ -10,7 +10,7 @@ The brushless motor is housed in a 3D printed holder.
 
 - [Servo controller for speed control](https://www.amazon.de/gp/product/B07K6D9ZDQ/ref=ox_sc_act_title_1?smid=A1SPOY0RBPE5BD&psc=1) x1
 
-- 6 mm long M2.5 screws x4
+- 6 mm long M3 screws x4
 
 - 2.6 mm thick M5 hex jam nut x1
 
