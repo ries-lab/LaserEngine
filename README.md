@@ -32,7 +32,7 @@ Or download the release [on Github](https://github.com/ries-lab/LaserEngine/rele
 
 
 
-###  :warning: Safety warning​​s :warning:
+###  :warning: Safety warnings :warning:
 
 - Always work with adequate laser light protection.
 - The foam board used in the [enclosure](Laser_Engine/Enclosure) is a fire hazard when subjected to strong laser light. Make sure to place beam stops behind the dichroic mirrors and the polarization beam splitter so that no laser beam hits the foam board panels. 
@@ -40,10 +40,9 @@ Or download the release [on Github](https://github.com/ries-lab/LaserEngine/rele
 
 #### Cite us
 
-D Schroeder\*, J Deschamps\*, A Dasgupta, U Matti and J Ries, "*A cost-efficient open source laser engine for microscopy*", bioRxiv 796482; doi: https://doi.org/10.1101/796482
+Daniel Schröder\*, Joran Deschamps\*, Anindita Dasgupta, Ulf Matti, and Jonas Ries, "Cost-efficient open source laser engine for microscopy," Biomed. Opt. Express 11, 609-623 (2020), [doi: 10.1364/BOE.380815](https://doi.org/10.1364/BOE.380815)
 
 Repository on Zenodo:
-
 [![DOI](https://zenodo.org/badge/172924170.svg)](https://zenodo.org/badge/latestdoi/172924170)
 
 

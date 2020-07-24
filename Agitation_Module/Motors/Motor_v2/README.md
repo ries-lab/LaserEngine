@@ -10,7 +10,7 @@ The brushless motor is housed in a 3D printed holder.
 
 - [Servo controller for speed control](https://www.amazon.de/gp/product/B07K6D9ZDQ/ref=ox_sc_act_title_1?smid=A1SPOY0RBPE5BD&psc=1) x1
 
-- 6 mm long M2.5 screws x4
+- 6 mm long M3 screws x4
 
 - 2.6 mm thick M5 hex jam nut x1
 
@@ -23,7 +23,7 @@ The brushless motor is housed in a 3D printed holder.
   [MR115 Ball bearing (5x11x4 mm)]( https://www.kugellager-express.de/miniature-deep-groove-ball-bearing-mr115-2rs-5x11x4-mm ) x1
   (make sure to use the correct motor housing)
 
-- 5 V (0.5 A) power supply
+- 12 V (0.5 A) power supply
 
   Definition of mechanical elements according to [this page](https://www.albanycountyfasteners.com/Fastener-Varieties-s/1130.htm).
 
@@ -39,9 +39,9 @@ The brushless motor is housed in a 3D printed holder.
 
 5. Insert the motor in the 3D housing so that the ball bearing fits in the central stepped hole.
 
-6. Screw the motor on the housing with the M2.5 screws.
+6. Screw the motor on the housing with the M3 screws.
 
-8. In order to power the brushless motor, you can for instance solder extensions on the wires of the motor and insert them in an adapter (here WR-TBL Serie 3405, Würth). Similarly, cut the cables on the controller and insert the bare ends in the complementary adapter (here WR-TBL Serie 3485, Würth). **Make sure to respect the correct cable connection.** Finally, solder the power and ground cables on the other side to a 5 V power supply (0.5 A). You can use the [servo controller](https://www.amazon.de/gp/product/B07K6D9ZDQ/ref=ox_sc_act_title_1?smid=A1SPOY0RBPE5BD&psc=1) to provide the speed signal.
+8. In order to power the brushless motor, you can for instance solder extensions on the wires of the motor and insert them in an adapter (here WR-TBL Serie 3405, Würth). Similarly, cut the cables on the controller and insert the bare ends in the complementary adapter (here WR-TBL Serie 3485, Würth). **Make sure to respect the correct cable connection.** Finally, solder the power and ground cables on the other side to the 12 V power supply (0.5 A). You can use the [servo controller](https://www.amazon.de/gp/product/B07K6D9ZDQ/ref=ox_sc_act_title_1?smid=A1SPOY0RBPE5BD&psc=1) to provide the speed signal. Note that in this case the servo controller gets its power from the motor controller, and the motor is powered directly from the power supply.
 
    ![Electronics](Brushless_motor_v2_electronics.jpg)
 

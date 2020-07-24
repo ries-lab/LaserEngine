@@ -9,7 +9,7 @@ The agitation module consists of an aluminium box in which a motor is suspended 
 - [Machined box parts](AgitationBox)
 - [3D printed handle](AgitationBox/Handle) x1
 - [Cable tie base](https://www.thorlabs.de/thorproduct.cfm?partnumber=CMS010) x4
-- [3 mm elastic cords](https://www.prym.com/en/elastic-cord-1.5mm-black-3m-971064?c=4315) x3
+- [2.5 mm elastic cords](https://www.prym.com/en/elastic-cord-1.5mm-black-3m-971064?c=4315) x3
 
 ###### Motor
 
