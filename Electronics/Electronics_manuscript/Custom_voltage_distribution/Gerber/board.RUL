@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\SVN_neu\laser_driver_box_publishing_Ries\Voltage_distribution\board.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=clearance_polygons|Scope=Board|Minimum=59.06
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_24V class|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=clearance_24V class|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=14.00
+RuleKind=Width|RuleName=WidthRoom|Scope=Board|Minimum=14.00
+RuleKind=Clearance|RuleName=ClearanceRoom|Scope=Board|Minimum=8.00
